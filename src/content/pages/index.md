@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-My name is Josh Kohler, I am a License Massage Therapist and I offer massage and bodywork, a combination of massage and stretching to help you overcome aches & pains, bulletproof you against potential injuries, and get you feeling your best.
+I am a License Massage Therapist and I offer massage and bodywork, a combination of massage and stretching to help you overcome aches & pains, bulletproof you against potential injuries, and get you feeling your best.
