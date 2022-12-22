@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Josh Kohler
 tagline: Certified Massage Therapist
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/38200060_10157318270435752_3569112269583286272_n.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
