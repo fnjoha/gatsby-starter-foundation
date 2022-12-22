@@ -8,5 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+My name is Josh Kohler, I am a License Massage Therapist and I offer massage and bodywork, a combination of massage and stretching to help you overcome aches & pains, bulletproof you against potential injuries, and get you feeling your best.
